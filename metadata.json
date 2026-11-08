@@ -1,0 +1,6 @@
+{
+  "name": "Mukul+ BD",
+  "description": "All-in-one entertainment streaming hub: Movies, Natok, Live TV, Live Sports, Music, YouTube & Weather.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
